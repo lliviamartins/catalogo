@@ -22,6 +22,6 @@ soma = 0
 while i < len(catalogo):
     soma += catalogo[i]['nota_avaliacao']
     i += 1
-print(catalogo[i]['titulo'])
+
 media = soma / len(catalogo)
 print(f'Média das notas: {media:.2f}')
