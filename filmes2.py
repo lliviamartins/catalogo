@@ -38,3 +38,5 @@ for filme in catalogo:
     
 
 print(f'O filme com maior avaliação é: {titulo} - nota:{maior};\nO filme com menor avaliação é: {titulo2} - nota:{menor}')
+
+#irá retornar que o filme 'A empregada' é o com menor avaliação, pois removeu o segundo título
